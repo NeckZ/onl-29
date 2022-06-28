@@ -1,0 +1,17 @@
+{
+  "name": "js-course-work",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Nikita Zinov",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.1",
+    "parcel": "^2.6.1",
+    "sass": "^1.52.3"
+  }
+}
